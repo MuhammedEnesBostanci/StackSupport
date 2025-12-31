@@ -4,7 +4,7 @@ Bu proje, Web Tabanlı Mobil Uygulama Geliştirme dersi kapsamında
 bireysel dönem sonu (final) projesi olarak geliştirilmiştir.
 
 ## 🔗 Canlı Demo
-https://... (Netlify linki)
+[https://... (Netlify linki)](https://stacksupport.netlify.app/)
 
 ## 🎥 Tanıtım Videosu
 https://... (Google Form’a yüklenen video)
@@ -41,3 +41,4 @@ https://getbootstrap.com/
 
 ## 👤 Geliştirici
 **Muhammed Enes Bostancı**
+
