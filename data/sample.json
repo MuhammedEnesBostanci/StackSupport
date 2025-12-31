@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "question_id": 1,
+      "title": "JavaScript nedir?",
+      "answer_count": 5,
+      "view_count": 120
+    },
+    {
+      "question_id": 2,
+      "title": "CSS Flexbox nasıl çalışır?",
+      "answer_count": 3,
+      "view_count": 98
+    }
+  ]
+}
