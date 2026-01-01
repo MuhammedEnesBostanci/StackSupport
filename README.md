@@ -50,12 +50,12 @@ https://getbootstrap.com/
 ---
 
 ## 🔗 Canlı Demo
-[https://stacksupport.netlify.app](https://stacksupport.netlify.app/)
+https://stacksupport.netlify.app/
 
 ---
 
 ## 🎥 Tanıtım Videosu
-[https://VIDEO_LINKINI_BURAYA_YAPISTIR](https://docs.google.com/videos/d/11p1ZSVZpu_AOFmYNehVdU2D9B4loid23B_w1zyLDXkg/edit?usp=sharing)
+https://docs.google.com/videos/d/11p1ZSVZpu_AOFmYNehVdU2D9B4loid23B_w1zyLDXkg/edit?scene=id.p#scene=id.p
 
 ---
 
@@ -63,6 +63,7 @@ https://getbootstrap.com/
 **Muhammed Enes Bostancı**  
 Ön Yüz Yazılım ve Geliştirme  
 Web Tabanlı Mobil Uygulama Geliştirme – Final Projesi
+
 
 
 
