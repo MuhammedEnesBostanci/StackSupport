@@ -55,7 +55,7 @@ https://stacksupport.netlify.app/
 ---
 
 ## 🎥 Tanıtım Videosu
-https://docs.google.com/videos/d/11p1ZSVZpu_AOFmYNehVdU2D9B4loid23B_w1zyLDXkg/edit?scene=id.p#scene=id.p
+https://docs.google.com/videos/d/18yVVQkVRxep6HNdUS1brgnoZzKRRGhhlELwOofS5EvU/edit?scene=id.p#scene=id.p
 
 ---
 
@@ -63,6 +63,7 @@ https://docs.google.com/videos/d/11p1ZSVZpu_AOFmYNehVdU2D9B4loid23B_w1zyLDXkg/ed
 **Muhammed Enes Bostancı**  
 Ön Yüz Yazılım ve Geliştirme  
 Web Tabanlı Mobil Uygulama Geliştirme – Final Projesi
+
 
 
 
